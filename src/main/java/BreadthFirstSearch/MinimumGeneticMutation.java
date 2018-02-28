@@ -1,4 +1,4 @@
-package BFS;
+package BreadthFirstSearch;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package BFS;
+package BreadthFirstSearch;
 
 import org.junit.After;
 import org.junit.AfterClass;
