@@ -42,7 +42,7 @@ public class AddBoldTagInStringTest {
      * Example 1.
      */
     @Test
-    public void testCase1() {
+    public void testcase1() {
         String s = "abcxyz123";
         String[] dict = {"abc","123"};
         String expected = "<b>abc</b>xyz<b>123</b>";
@@ -53,7 +53,7 @@ public class AddBoldTagInStringTest {
      * Example 2.
      */
     @Test
-    public void testCase2() {
+    public void testcase2() {
         String s = "aaabbcc";
         String[] dict = {"aaa","aab","bc"};
         String expected = "<b>aaabbc</b>c";

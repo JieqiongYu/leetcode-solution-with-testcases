@@ -42,7 +42,7 @@ public class MinimumGeneticMutationTest {
      * Example 1.
      */
     @Test
-    public void testCase1() {
+    public void testcase1() {
         String start = "AACCGGTT";
         String end = "AACCGGTA";
         String[] bank = {"AACCGGTA"};
@@ -53,7 +53,7 @@ public class MinimumGeneticMutationTest {
      * Example 2.
      */
     @Test
-    public void testCase2() {
+    public void testcase2() {
         String start = "AACCGGTT";
         String end = "AAACGGTA";
         String[] bank = {"AACCGGTA", "AACCGCTA", "AAACGGTA"};
@@ -64,7 +64,7 @@ public class MinimumGeneticMutationTest {
      * Example 3.
      */
     @Test
-    public void testCase3() {
+    public void testcase3() {
         String start = "AAAAACCC";
         String end = "AACCCCCC";
         String[] bank = {"AAAACCCC", "AAACCCCC", "AACCCCCC"};
@@ -75,7 +75,7 @@ public class MinimumGeneticMutationTest {
      * Scenario: end does not exist in bank.
      */
     @Test
-    public void testCase4() {
+    public void testcase4() {
         String start = "AACCTTGG";
         String end = "AATTCCGG";
         String[] bank = {"AATTCCGG","AACCTGGG","AACCCCGG","AACCTACC"};

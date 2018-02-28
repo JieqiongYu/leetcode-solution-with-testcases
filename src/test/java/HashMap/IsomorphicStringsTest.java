@@ -42,7 +42,7 @@ public class IsomorphicStringsTest {
      * Example 1.
      */
     @Test
-    public void testCase1() {
+    public void testcase1() {
         String s = "egg";
         String t = "add";
         assertEquals(true, solution.isIsomorphic(s, t));
@@ -52,7 +52,7 @@ public class IsomorphicStringsTest {
      * Example 2. 
      */
     @Test
-    public void testCase2() {
+    public void testcase2() {
         String s = "foo";
         String t = "bar";
         assertEquals(false, solution.isIsomorphic(s, t));
@@ -62,7 +62,7 @@ public class IsomorphicStringsTest {
      * Example 3.
      */
     @Test
-    public void testCase3() {
+    public void testcase3() {
         String s = "paper";
         String t = "title";
         assertEquals(true, solution.isIsomorphic(s, t));
@@ -72,7 +72,7 @@ public class IsomorphicStringsTest {
      * Wrong case 1. 
      */
     @Test
-    public void testCase4() {
+    public void testcase4() {
         String s = "ab";
         String t = "aa";
         assertEquals(false, solution.isIsomorphic(s, t));
