@@ -2,3 +2,6 @@
 /nbproject/
 /.idea
 /*.iml
+/out/
+/src/main/*.iml
+/src/test/*.iml
