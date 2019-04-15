@@ -5,3 +5,5 @@
 /out/
 /src/main/*.iml
 /src/test/*.iml
+
+*.DS_Store
