@@ -1,7 +1,5 @@
 package Array;
 
-import com.apple.eawt.AppEvent;
-
 public class FindPivotIndex {
 
     public int pivotIndex(int[] nums) {

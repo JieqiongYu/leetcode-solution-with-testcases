@@ -45,8 +45,7 @@ public class BackspaceStringCompareTest {
   public void testcase1() {
     String s = "ab#c";
     String T = "ad#c";
-    boolean expected = true;
-    assertEquals(expected, solution.backspaceCompare(s, T));
+    assertTrue(solution.backspaceCompare(s, T));
   }
 
   /**
@@ -56,8 +55,7 @@ public class BackspaceStringCompareTest {
   public void testcase2() {
     String s = "ab##";
     String T = "c#d#";
-    boolean expected = true;
-    assertEquals(expected, solution.backspaceCompare(s, T));
+    assertTrue(solution.backspaceCompare(s, T));
   }
 
   /**
@@ -67,8 +65,7 @@ public class BackspaceStringCompareTest {
   public void testcase3() {
     String s = "a##c";
     String T = "#a#c";
-    boolean expected = true;
-    assertEquals(expected, solution.backspaceCompare(s, T));
+    assertTrue(solution.backspaceCompare(s, T));
   }
 
   /**
@@ -78,7 +75,6 @@ public class BackspaceStringCompareTest {
   public void testcase4() {
     String s = "a#c";
     String T = "b";
-    boolean expected = false;
-    assertEquals(expected, solution.backspaceCompare(s, T));
+    assertTrue(solution.backspaceCompare(s, T));
   }
 }
