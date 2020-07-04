@@ -56,5 +56,7 @@ public class NumberOfIslandsTest {
                 {'0', '0', '1', '0', '0'},
                 {'0', '0', '0', '1', '1'},
         };
+        int expected = 3;
+        assertEquals(expected, solution.numIslands(grid));
     }
 }
