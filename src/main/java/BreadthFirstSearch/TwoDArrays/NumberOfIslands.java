@@ -15,6 +15,10 @@ public class NumberOfIslands {
     }
 
     public int numIslands(char[][] grid) {
+        if (grid.length == 0) {
+            return 0;
+        }
+
         int row = grid.length;
         int col = grid[0].length;
         int island = 0;
