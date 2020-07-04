@@ -1,5 +1,6 @@
 # LeetCode 
 
+- [1. Two Sum](src/main/java/HashMap/TwoSum.java)
 - [43. Multiply Strings](src/main/java/String/MultiplyStrings.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
 - [189. Rotate Array](src/main/java/Array/RotateArray.java)
