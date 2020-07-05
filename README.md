@@ -1,6 +1,7 @@
 # LeetCode 
 
 - [1. Two Sum](src/main/java/HashMap/TwoSum.java)
+- [2. Add Two Numbers](src/main/java/LinkedList/AddTwoNumbers.java)
 - [43. Multiply Strings](src/main/java/String/MultiplyStrings.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
 - [146. LRU Cache](src/main/java/Design/LRUCache.java)
