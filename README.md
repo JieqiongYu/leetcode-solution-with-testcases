@@ -3,6 +3,7 @@
 - [1. Two Sum](src/main/java/HashMap/TwoSum.java)
 - [43. Multiply Strings](src/main/java/String/MultiplyStrings.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
+- [146. LRU Cache](src/main/java/Design/LRUCache.java)
 - [189. Rotate Array](src/main/java/Array/RotateArray.java)
 - [199. Binary Tree Right Side View](src/main/java/BinaryTree/RightSideView.java)
 - [200. Number Of Islands](src/main/java/BreadthFirstSearch/TwoDArrays/NumberOfIslands.java)
