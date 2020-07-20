@@ -4,7 +4,6 @@ import org.junit.*;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThat;
 
 public class FindPivotIndexTest {
 
