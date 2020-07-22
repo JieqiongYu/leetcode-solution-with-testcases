@@ -2,6 +2,11 @@
 
 - [1. Two Sum](src/main/java/HashMap/TwoSum.java)
 - [2. Add Two Numbers](src/main/java/LinkedList/AddTwoNumbers.java)
+- [3. Longest Substring Without Repeating Characters](src/main/java/String/LongestSubstringWithoutRepeatingCharacters.java)
+- [4. Median of Two Sorted Arrays](src/main/java/Array/MedianOfTwoSortedArrays.java)
+- [5. Longest Palindromic Substring](src/main/java/String/LongestPalindromeSubstring.java)
+- [6. ZigZag Conversion](src/main/java/String/ZigZagConversion.java)
+- [7. Reverse Integer](src/main/java/Math/ReverseInteger.java)
 - [42. Trapping Rain Water](src/main/java/Array/TrappingRainWater.java)
 - [43. Multiply Strings](src/main/java/String/MultiplyStrings.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
