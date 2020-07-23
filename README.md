@@ -7,6 +7,7 @@
 - [5. Longest Palindromic Substring](src/main/java/String/LongestPalindromeSubstring.java)
 - [6. ZigZag Conversion](src/main/java/String/ZigZagConversion.java)
 - [7. Reverse Integer](src/main/java/Math/ReverseInteger.java)
+- [8. String to Integer (atoi)](src/main/java/Math/StringToIntegerAtoi.java)
 - [42. Trapping Rain Water](src/main/java/Array/TrappingRainWater.java)
 - [43. Multiply Strings](src/main/java/String/MultiplyStrings.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
