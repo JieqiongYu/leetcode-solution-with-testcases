@@ -1,41 +1,20 @@
 package HashMap;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import static org.junit.Assert.*;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import org.mockito.Mock;
 
-/**
- * Test for [LeetCode][205] Isomorphic Strings.
- *
- * @author jieqiong.yu
- */
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
 public class IsomorphicStringsTest {
-    
+
     @Mock
     private IsomorphicStrings solution;
-    
-    public IsomorphicStringsTest() {
-    }
-    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
+
     @Before
     public void setUp() {
         solution = new IsomorphicStrings();
-    }
-    
-    @After
-    public void tearDown() {
     }
 
     /**
@@ -45,19 +24,19 @@ public class IsomorphicStringsTest {
     public void testcase1() {
         String s = "egg";
         String t = "add";
-        assertEquals(true, solution.isIsomorphic(s, t));
+        assertTrue(solution.isIsomorphic(s, t));
     }
-    
+
     /**
-     * Example 2. 
+     * Example 2.
      */
     @Test
     public void testcase2() {
         String s = "foo";
         String t = "bar";
-        assertEquals(false, solution.isIsomorphic(s, t));
+        assertFalse(solution.isIsomorphic(s, t));
     }
-    
+
     /**
      * Example 3.
      */
@@ -65,16 +44,16 @@ public class IsomorphicStringsTest {
     public void testcase3() {
         String s = "paper";
         String t = "title";
-        assertEquals(true, solution.isIsomorphic(s, t));
+        assertTrue(solution.isIsomorphic(s, t));
     }
-    
+
     /**
-     * Wrong case 1. 
+     * Wrong case 1.
      */
     @Test
     public void testcase4() {
         String s = "ab";
         String t = "aa";
-        assertEquals(false, solution.isIsomorphic(s, t));
+        assertFalse(solution.isIsomorphic(s, t));
     }
 }

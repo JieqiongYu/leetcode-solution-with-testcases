@@ -1,41 +1,19 @@
 package BreadthFirstSearch;
 
-import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.mockito.Mock;
 
-/**
- * Test for [LeetCode][433] Minimum Genetic Mutation.
- *
- * @author jieqiong.yu
- */
+import static org.junit.Assert.assertEquals;
+
 public class MinimumGeneticMutationTest {
 
     @Mock
     private MinimumGeneticMutation solution;
 
-    public MinimumGeneticMutationTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new MinimumGeneticMutation();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**
@@ -59,7 +37,7 @@ public class MinimumGeneticMutationTest {
         String[] bank = {"AACCGGTA", "AACCGCTA", "AAACGGTA"};
         assertEquals(2, solution.minMutation(start, end, bank));
     }
-    
+
     /**
      * Example 3.
      */
@@ -70,7 +48,7 @@ public class MinimumGeneticMutationTest {
         String[] bank = {"AAAACCCC", "AAACCCCC", "AACCCCCC"};
         assertEquals(3, solution.minMutation(start, end, bank));
     }
-    
+
     /**
      * Scenario: end does not exist in bank.
      */

@@ -1,34 +1,21 @@
 package LinkedList;
 
 import LinkedList.SinglyLinkedList.ListNode;
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static LinkedList.SinglyLinkedList.LinkedListUtils.constructLinkedList;
 import static org.junit.Assert.assertEquals;
 
 public class AddTwoNumbersTest {
+
     @Mock
     private AddTwoNumbers solution;
-
-    public AddTwoNumbersTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         solution = new AddTwoNumbers();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

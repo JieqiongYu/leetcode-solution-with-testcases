@@ -1,35 +1,18 @@
 package HashMap;
 
-import org.junit.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
-
-/**
- * Test for [LeetCode][957] Prison Cells After N Days.
- * https://leetcode.com/problems/prison-cells-after-n-days/
- */
 public class PrisonAfterNDaysTest {
+
     @Mock
     private PrisonAfterNDays solution;
-
-    public PrisonAfterNDaysTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         solution = new PrisonAfterNDays();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

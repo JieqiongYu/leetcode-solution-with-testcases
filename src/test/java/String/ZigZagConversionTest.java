@@ -1,32 +1,19 @@
 package String;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static junit.framework.TestCase.assertEquals;
 
 public class ZigZagConversionTest {
+
     @Mock
     private ZigZagConversion solution;
-
-    public ZigZagConversionTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         solution = new ZigZagConversion();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

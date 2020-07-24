@@ -1,6 +1,7 @@
 package BinaryTree;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import java.util.Arrays;
@@ -13,24 +14,9 @@ public class RightSideViewTest {
     @Mock
     private RightSideView solution;
 
-    public RightSideViewTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new RightSideView();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

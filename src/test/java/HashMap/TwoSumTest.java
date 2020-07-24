@@ -1,35 +1,22 @@
 package HashMap;
 
-import org.junit.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 public class TwoSumTest {
+
     @Mock
     private TwoSum solution;
-
-
-    public TwoSumTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         solution = new TwoSum();
     }
 
-    @After
-    public void tearDown() {
-    }
-
     /**
-     * Example
+     * Example 1.
      */
     @Test
     public void testcase1() {

@@ -1,6 +1,7 @@
 package BinarySearch;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
@@ -10,24 +11,9 @@ public class ArrangeCoinsTest {
     @Mock
     private ArrangeCoins solution;
 
-    public ArrangeCoinsTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new ArrangeCoins();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

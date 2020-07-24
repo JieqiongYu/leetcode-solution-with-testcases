@@ -1,6 +1,7 @@
 package DynamicProgramming;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
@@ -10,24 +11,9 @@ public class EditDistanceTest {
     @Mock
     private EditDistance solution;
 
-    public EditDistanceTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new EditDistance();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

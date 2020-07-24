@@ -1,8 +1,5 @@
 package Stack;
 
-import java.util.Stack;
-
-
 public class BackspaceStringCompare {
   public boolean backspaceCompare(String S, String T) {
     int i = S.length() - 1;

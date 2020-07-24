@@ -1,42 +1,19 @@
 package String;
 
-import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.mockito.Mock;
 
+import static org.junit.Assert.assertEquals;
 
-/**
- * Test for [LeetCode 824] Goat Latin.
- *
- * @author jieqiong.yu
- */
 public class GoatLatinTest {
 
   @Mock
   private GoatLatin solution;
 
-  public GoatLatinTest() {
-  }
-
-  @BeforeClass
-  public static void setUpClass() {
-  }
-
-  @AfterClass
-  public static void tearDownClass(){
-  }
-
   @Before
   public void setUp(){
     solution = new GoatLatin();
-  }
-
-  @After
-  public void teadDown(){
   }
 
   /**
@@ -58,6 +35,4 @@ public class GoatLatinTest {
     String expected = "heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa";
     assertEquals(expected, solution.toGoatLatin(input));
   }
-
-
 }

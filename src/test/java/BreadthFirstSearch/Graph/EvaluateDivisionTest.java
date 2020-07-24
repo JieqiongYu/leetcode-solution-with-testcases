@@ -1,36 +1,18 @@
 package BreadthFirstSearch.Graph;
 
-import org.junit.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
-/**
- * Test for [LeetCode][399] Evaluate Division.
- *
- * @author jieqiong.yu
- */
 public class EvaluateDivisionTest {
 
     @Mock
     private EvaluateDivision solution;
 
-    public EvaluateDivisionTest(){
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new EvaluateDivision();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**
