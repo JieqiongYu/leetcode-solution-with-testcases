@@ -1,41 +1,20 @@
 package Stack;
 
-import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.mockito.Mock;
 
-/**
- * Test for [LeetCode][844] Backspace String Compare
- *
- * @author jieqiong.yu
- */
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
 public class BackspaceStringCompareTest {
 
   @Mock
   private BackspaceStringCompare solution;
 
-  public BackspaceStringCompareTest() {
-  }
-
-  @BeforeClass
-  public static void setUpClass() {
-  }
-
-  @AfterClass
-  public static void tearDownClass() {
-  }
-
   @Before
   public void setUp() {
     solution = new BackspaceStringCompare();
-  }
-
-  @After
-  public void tearDown() {
   }
 
   /**
@@ -75,6 +54,6 @@ public class BackspaceStringCompareTest {
   public void testcase4() {
     String s = "a#c";
     String T = "b";
-    assertTrue(solution.backspaceCompare(s, T));
+    assertFalse(solution.backspaceCompare(s, T));
   }
 }

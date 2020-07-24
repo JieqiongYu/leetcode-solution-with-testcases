@@ -1,33 +1,20 @@
 package Design;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
 
 public class LRUCacheTest {
+
     @Mock
     private LRUCache solution;
-
-    public LRUCacheTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         // Example: LRUCache cache = new LRUCache(2);
         solution = new LRUCache(2);
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

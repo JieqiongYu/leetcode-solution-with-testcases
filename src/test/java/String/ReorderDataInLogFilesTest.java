@@ -1,30 +1,18 @@
 package String;
 
-import org.junit.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 public class ReorderDataInLogFilesTest {
+
     @Mock
     private ReorderDataInLogFiles solution;
-
-    public ReorderDataInLogFilesTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         solution = new ReorderDataInLogFiles();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

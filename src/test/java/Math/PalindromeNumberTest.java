@@ -1,6 +1,7 @@
 package Math;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertFalse;
@@ -11,24 +12,9 @@ public class PalindromeNumberTest {
     @Mock
     private PalindromeNumber solution;
 
-    public PalindromeNumberTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new PalindromeNumber();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

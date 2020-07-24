@@ -1,45 +1,21 @@
 package Array;
 
-        import org.junit.After;
-        import org.junit.AfterClass;
-        import org.junit.Assert;
-        import org.junit.Before;
-        import org.junit.BeforeClass;
-        import org.junit.Test;
-        import org.mockito.Matchers;
-        import org.mockito.Mock;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+import org.mockito.Mock;
 
-        import java.util.ArrayList;
-        import java.util.List;
+import java.util.ArrayList;
+import java.util.List;
 
-/**
- * Test for [LintCode][138] Rotate Array.
- *
- * @author jieqiong.yu
- */
 public class SubarraySumTest {
 
     @Mock
     private SubarraySum solution;
 
-    public SubarraySumTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new SubarraySum();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     @Test

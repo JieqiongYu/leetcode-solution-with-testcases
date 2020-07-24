@@ -1,32 +1,19 @@
 package Array;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
 
 public class TrappingRainWaterTest {
+
     @Mock
     private TrappingRainWater solution;
-
-    public TrappingRainWaterTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
 
     @Before
     public void setUp() {
         solution = new TrappingRainWater();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

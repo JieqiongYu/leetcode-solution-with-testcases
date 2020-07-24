@@ -1,6 +1,8 @@
 package BreadthFirstSearch.Graph;
 
-import org.junit.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import java.util.ArrayList;
@@ -10,24 +12,9 @@ public class TopologicalSortingTest {
     @Mock
     private TopologicalSorting solution;
 
-    public TopologicalSortingTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new TopologicalSorting();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

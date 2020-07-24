@@ -1,6 +1,7 @@
 package String;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
@@ -9,25 +10,11 @@ public class LongestSubstringWithoutRepeatingCharactersTest {
     @Mock
     private LongestSubstringWithoutRepeatingCharacters solution;
 
-    public LongestSubstringWithoutRepeatingCharactersTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new LongestSubstringWithoutRepeatingCharacters();
     }
 
-    @After
-    public void tearDown() {
-    }
 
     /**
      * Example 1.

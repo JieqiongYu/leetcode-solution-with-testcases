@@ -32,3 +32,4 @@
 - [929. Unique Email Addresses](src/main/java/HashMap/UniqueEmailAddresses.java)
 - [937. Reorder Data in Log Files](src/main/java/String/ReorderDataInLogFiles.java)
 - [957. Prison Cells After N Days](src/main/java/HashMap/PrisonAfterNDays.java)
+- [1342. Number of Steps to Reduce a Number to Zero](src/main/java/Math/NumberOfStepsToReduceANumberToZero.java)

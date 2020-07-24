@@ -1,6 +1,7 @@
 package Math;
 
-import org.junit.*;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
@@ -9,24 +10,9 @@ public class ReverseIntegerTest {
     @Mock
     private ReverseInteger solution;
 
-    public ReverseIntegerTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new ReverseInteger();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

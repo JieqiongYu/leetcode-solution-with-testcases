@@ -1,6 +1,8 @@
 package String;
 
-import org.junit.*;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 import org.mockito.Mock;
 
 public class ShortestDistanceToACharacterTest {
@@ -8,24 +10,9 @@ public class ShortestDistanceToACharacterTest {
     @Mock
     private ShortestDistanceToACharacter solution;
 
-    public ShortestDistanceToACharacterTest() {
-    }
-
-    @BeforeClass
-    public static void setUpClass() {
-    }
-
-    @AfterClass
-    public static void tearDownClass() {
-    }
-
     @Before
     public void setUp() {
         solution = new ShortestDistanceToACharacter();
-    }
-
-    @After
-    public void tearDown() {
     }
 
     /**

@@ -1,41 +1,19 @@
 package String;
 
-import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.mockito.Mock;
 
-/**
- * Test for [LeetCode][43] Multiply Strings. 
- *
- * @author jieqiong.yu
- */
+import static org.junit.Assert.assertEquals;
+
 public class MultiplyStringTest {
-    
-    @Mock 
+
+    @Mock
     private MultiplyStrings solution;
-    
-    public MultiplyStringTest() {
-    }
-    
-    @BeforeClass
-    public static void setUpClass() {
-    }
-    
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
+
     @Before
     public void setUp() {
         solution = new MultiplyStrings();
-    }
-    
-    @After
-    public void tearDown() {
     }
 
     /**
@@ -48,8 +26,8 @@ public class MultiplyStringTest {
         String expected = "0";
         assertEquals(expected, solution.multiply(num1, num2));
     }
-    
-    @Test 
+
+    @Test
     public void testcase2() {
         String num1 = "6913259244";
         String num2 = "71103343";
