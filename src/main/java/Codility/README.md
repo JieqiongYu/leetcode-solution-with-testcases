@@ -1,8 +1,11 @@
 In base -2, integers are represented by sequences of bits in the following way: bits are ordered from the least to the most significant. A sequence B of N bits represents the number: sum{ B[i]*(-2)<sup>i</sup> for i = 0...N-1 }. The empty sequence represents 0. For example: 
 
 100111  represents -23
+
 001011  represents -12
+
 10011   represents 9
+
 001     represents 4,
 
 because: 
