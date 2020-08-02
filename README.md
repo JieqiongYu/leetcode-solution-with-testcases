@@ -28,6 +28,7 @@
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
 - [616. Add Bold Tag In String](src/main/java/String/AddBoldTagInString.java)
 - [645. Set Mismatch](src/main/java/Math/SetMismatch.java)
+- [705. Design HashSet](src/main/java/Design/DesignHashSet.java)
 - [724. Find Pivot Index](src/main/java/Array/FindPivotIndex.java)
 - [821. Shortest Distance to a Character](src/main/java/String/ShortestDistanceToACharacter.java)
 - [824. Goat Latin](src/main/java/String/GoatLatin.java)
