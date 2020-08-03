@@ -20,6 +20,7 @@
 - [189. Rotate Array](src/main/java/Array/RotateArray.java)
 - [199. Binary Tree Right Side View](src/main/java/BinaryTree/RightSideView.java)
 - [200. Number Of Islands](src/main/java/BreadthFirstSearch/TwoDArrays/NumberOfIslands.java)
+- [202. Happy Number](src/main/java/HashMap/HappyNumber.java)
 - [205. Isomorphic Strings](src/main/java/HashMap/IsomorphicStrings.java)
 - [371. Sum of Two Integers](src/main/java/BitManipulation/SumOfTwoInteger.java)
 - [359. Logger Rate Limiter](src/main/java/Design/LoggerRateLimit.java)
