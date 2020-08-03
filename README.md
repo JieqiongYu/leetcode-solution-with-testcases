@@ -11,6 +11,7 @@
 - [9. Palindrome Number](src/main/java/Math/PalindromeNumber.java)
 - [42. Trapping Rain Water](src/main/java/Array/TrappingRainWater.java)
 - [43. Multiply Strings](src/main/java/String/MultiplyStrings.java)
+- [53. Maximum Subarray](src/main/java/Greedy/MaximumSubarray.java)
 - [70. Climbing Stairs](src/main/java/DynamicProgramming/ClimbStairs.java)
 - [72. Edit Distance](src/main/java/DynamicProgramming/EditDistance.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
