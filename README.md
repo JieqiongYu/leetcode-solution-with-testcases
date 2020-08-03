@@ -14,6 +14,7 @@
 - [70. Climbing Stairs](src/main/java/DynamicProgramming/ClimbStairs.java)
 - [72. Edit Distance](src/main/java/DynamicProgramming/EditDistance.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
+- [125. Valid Palindrome](src/main/java/TwoPointer/ValidPalindrome.java)
 - [146. LRU Cache](src/main/java/Design/LRUCache.java)
 - [189. Rotate Array](src/main/java/Array/RotateArray.java)
 - [199. Binary Tree Right Side View](src/main/java/BinaryTree/RightSideView.java)
