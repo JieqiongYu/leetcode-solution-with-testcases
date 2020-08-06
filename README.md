@@ -28,6 +28,7 @@
 - [359. Logger Rate Limiter](src/main/java/Design/LoggerRateLimit.java)
 - [399. Evaluate Division](src/main/java/BreadthFirstSearch/Graph/EvaluateDivision.java)
 - [441. Arranging Coins](src/main/java/BinarySearch/ArrangeCoins.java)
+- [442. Find All Duplicates in an Array](src/main/java/HashMap/FindAllDuplicatesInAnArray.java)
 - [443. Minimum Genetic Mutation](src/main/java/BreadthFirstSearch/MinimumGeneticMutation.java)
 - [468. Valid IP Address](src/main/java/String/ValidIPAddress.java)
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
