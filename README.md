@@ -30,6 +30,7 @@
 - [205. Isomorphic Strings](src/main/java/HashMap/IsomorphicStrings.java)
 - [270. Closest Binary Search Tree Value](src/main/java/BinaryTree/ClosestBinarySearchTreeValue.java)
 - [283. Move Zeroes](src/main/java/TwoPointer/MoveZeroes.java)
+- [286. Walls and Gates](src/main/java/BreadthFirstSearch/TwoDArrays/WallsAndGates.java)
 - [371. Sum of Two Integers](src/main/java/BitManipulation/SumOfTwoInteger.java)
 - [359. Logger Rate Limiter](src/main/java/Design/LoggerRateLimit.java)
 - [399. Evaluate Division](src/main/java/BreadthFirstSearch/Graph/EvaluateDivision.java)
@@ -51,4 +52,5 @@
 - [937. Reorder Data in Log Files](src/main/java/String/ReorderDataInLogFiles.java)
 - [957. Prison Cells After N Days](src/main/java/HashMap/PrisonAfterNDays.java)
 - [987. Vertical Order Traversal of a Binary Tree](src/main/java/BinaryTree/VerticalOrderTraversalOfABinaryTree.java)
+- [994. Rotting Oranges](src/main/java/BreadthFirstSearch/TwoDArrays/RottingOranges.java)
 - [1342. Number of Steps to Reduce a Number to Zero](src/main/java/Math/NumberOfStepsToReduceANumberToZero.java)
