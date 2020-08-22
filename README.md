@@ -53,6 +53,7 @@
 - [821. Shortest Distance to a Character](src/main/java/String/ShortestDistanceToACharacter.java)
 - [824. Goat Latin](src/main/java/String/GoatLatin.java)
 - [844. Backspace String Compare](src/main/java/Stack/BackspaceStringCompare.java)
+- [905. Sort Array By Parity](src/main/java/Array/SortArrayByParity.java)
 - [929. Unique Email Addresses](src/main/java/String/UniqueEmailAddresses.java)
 - [937. Reorder Data in Log Files](src/main/java/String/ReorderDataInLogFiles.java)
 - [957. Prison Cells After N Days](src/main/java/HashMap/PrisonAfterNDays.java)
