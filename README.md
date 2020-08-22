@@ -44,6 +44,7 @@
 - [468. Valid IP Address](src/main/java/String/ValidIPAddress.java)
 - [482. License Key Formatting](src/main/java/String/LicenseKeyFormatting.java)
 - [484. Find Permutation](src/main/java/Greedy/FindPermutation.java)
+- [490. The Maze](src/main/java/BreadthFirstSearch/TwoDArrays/TheMaze.java)
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
 - [560. Subarray Sum Equals K](src/main/java/Array/SubarraySumEqualsK.java)
 - [616. Add Bold Tag In String](src/main/java/String/AddBoldTagInString.java)
