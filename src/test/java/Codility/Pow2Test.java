@@ -5,12 +5,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
 
-public class SolutionTest {
-    private Solution solution;
+public class Pow2Test {
+    private Pow2 solution;
 
     @Before
     public void setUp() {
-        solution = new Solution();
+        solution = new Pow2();
     }
 
     @Test

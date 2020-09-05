@@ -3,7 +3,7 @@ package Codility;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class Pow2 {
     public int[] solution(int[] A) {
         int X = getX(A);
         int Y = getCelling(X);
