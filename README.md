@@ -54,6 +54,7 @@
 - [763. Partition Labels](src/main/java/Greedy/PartitionLabels.java)
 - [821. Shortest Distance to a Character](src/main/java/String/ShortestDistanceToACharacter.java)
 - [824. Goat Latin](src/main/java/String/GoatLatin.java)
+- [835. Image Overlap](src/main/java/Array/ImageOverlap.java)
 - [844. Backspace String Compare](src/main/java/Stack/BackspaceStringCompare.java)
 - [905. Sort Array By Parity](src/main/java/Array/SortArrayByParity.java)
 - [929. Unique Email Addresses](src/main/java/String/UniqueEmailAddresses.java)
