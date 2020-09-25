@@ -26,6 +26,7 @@
 - [146. LRU Cache](src/main/java/Design/LRUCache.java)
 - [165. Compare Version Numbers](src/main/java/String/CompareVersionNumbers.java)
 - [171. Excel Sheet Column Number](src/main/java/Math/ExcelSheetColumnNumber.java)
+- [179. Largest Number](src/main/java/String/LargestNumber.java)
 - [189. Rotate Array](src/main/java/Array/RotateArray.java)
 - [199. Binary Tree Right Side View](src/main/java/BinaryTree/RightSideView.java)
 - [200. Number Of Islands](src/main/java/BreadthFirstSearch/TwoDArrays/NumberOfIslands.java)
