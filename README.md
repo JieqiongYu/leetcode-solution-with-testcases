@@ -51,6 +51,7 @@
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
 - [560. Subarray Sum Equals K](src/main/java/Array/SubarraySumEqualsK.java)
 - [616. Add Bold Tag In String](src/main/java/String/AddBoldTagInString.java)
+- [624. Maximum Distance in Arrays](src/main/java/Array/MaximumDistanceInArrays.java)
 - [645. Set Mismatch](src/main/java/Math/SetMismatch.java)
 - [705. Design HashSet](src/main/java/Design/DesignHashSet.java)
 - [724. Find Pivot Index](src/main/java/Array/FindPivotIndex.java)
