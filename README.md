@@ -49,6 +49,7 @@
 - [484. Find Permutation](src/main/java/Greedy/FindPermutation.java)
 - [490. The Maze](src/main/java/BreadthFirstSearch/TwoDArrays/TheMaze.java)
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
+- [532. K-diff Pairs in an Array](src/main/java/TwoPointer/KDiffPairsInAnArray.java)
 - [560. Subarray Sum Equals K](src/main/java/Array/SubarraySumEqualsK.java)
 - [616. Add Bold Tag In String](src/main/java/String/AddBoldTagInString.java)
 - [624. Maximum Distance in Arrays](src/main/java/Array/MaximumDistanceInArrays.java)
