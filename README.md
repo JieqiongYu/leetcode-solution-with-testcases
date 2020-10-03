@@ -47,6 +47,7 @@
 - [468. Valid IP Address](src/main/java/String/ValidIPAddress.java)
 - [482. License Key Formatting](src/main/java/String/LicenseKeyFormatting.java)
 - [484. Find Permutation](src/main/java/Greedy/FindPermutation.java)
+- [485. Max Consecutive Ones](src/main/java/Array/MaxConsecutiveOnes.java)
 - [490. The Maze](src/main/java/BreadthFirstSearch/TwoDArrays/TheMaze.java)
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
 - [532. K-diff Pairs in an Array](src/main/java/TwoPointer/KDiffPairsInAnArray.java)
