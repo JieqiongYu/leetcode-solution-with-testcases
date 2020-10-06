@@ -69,4 +69,5 @@
 - [957. Prison Cells After N Days](src/main/java/HashMap/PrisonAfterNDays.java)
 - [987. Vertical Order Traversal of a Binary Tree](src/main/java/BinaryTree/VerticalOrderTraversalOfABinaryTree.java)
 - [994. Rotting Oranges](src/main/java/BreadthFirstSearch/TwoDArrays/RottingOranges.java)
+- [1295. Find Numbers with Even Number of Digits](src/main/java/Array/FindNumbersWithEvenNumberOfDigits.java)
 - [1342. Number of Steps to Reduce a Number to Zero](src/main/java/Math/NumberOfStepsToReduceANumberToZero.java)
