@@ -29,4 +29,12 @@ public class DuplicateZerosTest {
         solution.duplicateZeros(arr);
         Assert.assertArrayEquals(expected, arr);
     }
+
+    @Test
+    public void testcase3() {
+        int[] arr = {1, 0, 7, 2, 4, 3, 1, 0, 2, 6};
+        int[] expected = {1, 0, 0, 7, 2, 4, 3, 1, 0, 0};
+        solution.duplicateZeros(arr);
+        Assert.assertArrayEquals(expected, arr);
+    }
 }
