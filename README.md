@@ -67,6 +67,7 @@
 - [929. Unique Email Addresses](src/main/java/String/UniqueEmailAddresses.java)
 - [937. Reorder Data in Log Files](src/main/java/String/ReorderDataInLogFiles.java)
 - [957. Prison Cells After N Days](src/main/java/HashMap/PrisonAfterNDays.java)
+- [977. Squares of a Sorted Array](src/main/java/Array/SquaresOfASortedArray.java)
 - [987. Vertical Order Traversal of a Binary Tree](src/main/java/BinaryTree/VerticalOrderTraversalOfABinaryTree.java)
 - [994. Rotting Oranges](src/main/java/BreadthFirstSearch/TwoDArrays/RottingOranges.java)
 - [1295. Find Numbers with Even Number of Digits](src/main/java/Array/FindNumbersWithEvenNumberOfDigits.java)
