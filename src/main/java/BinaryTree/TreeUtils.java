@@ -9,9 +9,9 @@ public class TreeUtils {
     /**
      * This method is to construct a normal binary tree.
      * The input reads like this for [5, 3, 6, 2, 4, null, null, 1],
-     * 5
-     * /   \
-     * 3     6
+     *      5
+     *    /   \
+     *   3     6
      * / \    / \
      * 2   4  #   #
      * /
