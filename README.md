@@ -50,6 +50,7 @@
 - [484. Find Permutation](src/main/java/Greedy/FindPermutation.java)
 - [485. Max Consecutive Ones](src/main/java/Array/MaxConsecutiveOnes.java)
 - [490. The Maze](src/main/java/BreadthFirstSearch/TwoDArrays/TheMaze.java)
+- [498. Diagonal Traverse](src/main/java/Array/DiagonalTraverse.java)
 - [520. Detect Capital](src/main/java/String/DetectCapital.java)
 - [532. K-diff Pairs in an Array](src/main/java/TwoPointer/KDiffPairsInAnArray.java)
 - [543. Diameter of Binary Tree](src/main/java/BinaryTree/DiameterOfBinaryTree.java)
