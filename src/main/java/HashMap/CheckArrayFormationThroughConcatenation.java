@@ -10,13 +10,13 @@ public class CheckArrayFormationThroughConcatenation {
             map.put(piece[0], piece);
         }
 
-        for (int i = 0; i < arr.length;) {
+        for (int i = 0; i < arr.length; ) {
             if (!map.containsKey(arr[i])) {
                 return false;
             }
 
-            int[] pieceSubArray = map.get(arr[i]);
-            for (int num : pieceSubArray) {
+            int[] piece = map.get(arr[i]);
+            for (int num : piece) {
                 if (num != arr[i]) {
                     return false;
                 }
