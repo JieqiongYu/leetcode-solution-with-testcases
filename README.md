@@ -80,3 +80,4 @@
 - [1342. Number of Steps to Reduce a Number to Zero](src/main/java/Math/NumberOfStepsToReduceANumberToZero.java)
 - [1480. Running Sum of 1d Array](src/main/java/Array/RunningSumOf1DArray.java)
 - [1602. Find Nearest Right Node in Binary Tree](src/main/java/BinaryTree/FindNearestRightNodeInBinaryTree.java)
+- [1640. Check Array Formation Through Concatenation](src/main/java/HashMap/CheckArrayFormationThroughConcatenation.java)
