@@ -37,6 +37,7 @@
 - [270. Closest Binary Search Tree Value](src/main/java/BinaryTree/ClosestBinarySearchTreeValue.java)
 - [283. Move Zeroes](src/main/java/TwoPointer/MoveZeroes.java)
 - [286. Walls and Gates](src/main/java/BreadthFirstSearch/TwoDArrays/WallsAndGates.java)
+- [292. Nim Game](src/main/java/MinMax/NimGame.java)
 - [371. Sum of Two Integers](src/main/java/BitManipulation/SumOfTwoInteger.java)
 - [359. Logger Rate Limiter](src/main/java/Design/LoggerRateLimit.java)
 - [399. Evaluate Division](src/main/java/BreadthFirstSearch/Graph/EvaluateDivision.java)
