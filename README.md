@@ -21,6 +21,7 @@
 - [94. Binary Tree Inorder Traversal](src/main/java/BinaryTree/BinaryTreeInorderTraversal.java)
 - [112. Path Sum](src/main/java/BinaryTree/PathSum.java)
 - [113. Path Sum II](src/main/java/BinaryTree/PathSumII.java)
+- [118. Pascal's Triangle](src/main/java/Array/PascalsTriangle.java)
 - [120. Triangle](src/main/java/DynamicProgramming/Triangle.java)
 - [129. Sum Root to Leaf Numbers](src/main/java/BinaryTree/SumRootToLeafNumbers.java)
 - [125. Valid Palindrome](src/main/java/TwoPointer/ValidPalindrome.java)
