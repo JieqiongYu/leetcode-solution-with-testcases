@@ -36,6 +36,7 @@
 - [200. Number Of Islands](src/main/java/BreadthFirstSearch/TwoDArrays/NumberOfIslands.java)
 - [202. Happy Number](src/main/java/HashMap/HappyNumber.java)
 - [205. Isomorphic Strings](src/main/java/HashMap/IsomorphicStrings.java)
+- [242. Valid Anagram](src/main/java/HashMap/ValidAnagram.java)
 - [270. Closest Binary Search Tree Value](src/main/java/BinaryTree/ClosestBinarySearchTreeValue.java)
 - [283. Move Zeroes](src/main/java/TwoPointer/MoveZeroes.java)
 - [286. Walls and Gates](src/main/java/BreadthFirstSearch/TwoDArrays/WallsAndGates.java)
