@@ -62,6 +62,7 @@
 - [616. Add Bold Tag In String](src/main/java/String/AddBoldTagInString.java)
 - [624. Maximum Distance in Arrays](src/main/java/Array/MaximumDistanceInArrays.java)
 - [645. Set Mismatch](src/main/java/Math/SetMismatch.java)
+- [694. Number of Distinct Islands](src/main/java/DepthFirstSearch/NumberOfDistinctIslands.java)
 - [701. Insert Into a Binary Search Tree](src/main/java/BinaryTree/BinarySearchTree/InsertIntoABinarySearchTree.java)
 - [705. Design HashSet](src/main/java/Design/DesignHashSet.java)
 - [724. Find Pivot Index](src/main/java/Array/FindPivotIndex.java)
