@@ -80,6 +80,7 @@
 - [994. Rotting Oranges](src/main/java/BreadthFirstSearch/TwoDArrays/RottingOranges.java)
 - [1023. Camelcase Matching](src/main/java/TwoPointer/CamelcaseMatching.java)
 - [1089. Duplicate Zeros](src/main/java/Array/DuplicateZeros.java)
+- [1091. Shortest Path in Binary Matrix](src/main/java/BreadthFirstSearch/TwoDArrays/ShortestPathInBinaryMatrix.java)
 - [1099. Two Sum Less Than K](src/main/java/TwoPointer/TwoSumLessThanK.java)
 - [1108. Defanging an IP Address](src/main/java/String/DefangingAnIpAddress.java)
 - [1295. Find Numbers with Even Number of Digits](src/main/java/Array/FindNumbersWithEvenNumberOfDigits.java)
