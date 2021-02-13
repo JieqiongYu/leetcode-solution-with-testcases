@@ -43,6 +43,7 @@
 - [292. Nim Game](src/main/java/MinMax/NimGame.java)
 - [371. Sum of Two Integers](src/main/java/BitManipulation/SumOfTwoInteger.java)
 - [359. Logger Rate Limiter](src/main/java/Design/LoggerRateLimit.java)
+- [388. Longest Absolute File Path](src/main/java/HashMap/LongestAbsoluteFilePath.java)
 - [399. Evaluate Division](src/main/java/BreadthFirstSearch/Graph/EvaluateDivision.java)
 - [409. Longest Palindrome](src/main/java/HashMap/LongestPalindrome.java)
 - [437. Path Sum III](src/main/java/BinaryTree/PathSumIII.java)
