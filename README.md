@@ -41,6 +41,7 @@
 - [283. Move Zeroes](src/main/java/TwoPointer/MoveZeroes.java)
 - [286. Walls and Gates](src/main/java/BreadthFirstSearch/TwoDArrays/WallsAndGates.java)
 - [292. Nim Game](src/main/java/MinMax/NimGame.java)
+- [346. Moving Average from Data Stream](src/main/java/Design/MovingAverage.java)
 - [371. Sum of Two Integers](src/main/java/BitManipulation/SumOfTwoInteger.java)
 - [359. Logger Rate Limiter](src/main/java/Design/LoggerRateLimit.java)
 - [388. Longest Absolute File Path](src/main/java/HashMap/LongestAbsoluteFilePath.java)
