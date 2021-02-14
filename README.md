@@ -82,6 +82,7 @@
 - [977. Squares of a Sorted Array](src/main/java/Array/SquaresOfASortedArray.java)
 - [987. Vertical Order Traversal of a Binary Tree](src/main/java/BinaryTree/VerticalOrderTraversalOfABinaryTree.java)
 - [994. Rotting Oranges](src/main/java/BreadthFirstSearch/TwoDArrays/RottingOranges.java)
+- [1021. Remove Outermost Parentheses](src/main/java/String/RemoveOutermostParentheses.java)
 - [1023. Camelcase Matching](src/main/java/TwoPointer/CamelcaseMatching.java)
 - [1089. Duplicate Zeros](src/main/java/Array/DuplicateZeros.java)
 - [1091. Shortest Path in Binary Matrix](src/main/java/BreadthFirstSearch/TwoDArrays/ShortestPathInBinaryMatrix.java)
