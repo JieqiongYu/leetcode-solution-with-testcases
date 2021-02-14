@@ -69,6 +69,7 @@
 - [705. Design HashSet](src/main/java/Design/DesignHashSet.java)
 - [724. Find Pivot Index](src/main/java/Array/FindPivotIndex.java)
 - [763. Partition Labels](src/main/java/Greedy/PartitionLabels.java)
+- [785. Is Graph Bipartite?](src/main/java/DepthFirstSearch/IsGraphBipartite.java)
 - [821. Shortest Distance to a Character](src/main/java/String/ShortestDistanceToACharacter.java)
 - [824. Goat Latin](src/main/java/String/GoatLatin.java)
 - [835. Image Overlap](src/main/java/Array/ImageOverlap.java)
