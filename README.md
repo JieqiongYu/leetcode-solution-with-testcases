@@ -61,6 +61,7 @@
 - [543. Diameter of Binary Tree](src/main/java/BinaryTree/DiameterOfBinaryTree.java)
 - [560. Subarray Sum Equals K](src/main/java/Array/SubarraySumEqualsK.java)
 - [616. Add Bold Tag In String](src/main/java/String/AddBoldTagInString.java)
+- [617. Merge Two Binary Trees](src/main/java/BinaryTree/MergeTwoBinaryTrees.java)
 - [624. Maximum Distance in Arrays](src/main/java/Array/MaximumDistanceInArrays.java)
 - [645. Set Mismatch](src/main/java/Math/SetMismatch.java)
 - [681. Next Closest Time](src/main/java/String/NextClosestTime.java)
