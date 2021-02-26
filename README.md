@@ -90,6 +90,7 @@
 - [1091. Shortest Path in Binary Matrix](src/main/java/BreadthFirstSearch/TwoDArrays/ShortestPathInBinaryMatrix.java)
 - [1099. Two Sum Less Than K](src/main/java/TwoPointer/TwoSumLessThanK.java)
 - [1108. Defanging an IP Address](src/main/java/String/DefangingAnIpAddress.java)
+- [1249. Minimum Remove to Make Valid Parentheses](src/main/java/Stack/MinimumRemoveToMakeValidParentheses.java)
 - [1295. Find Numbers with Even Number of Digits](src/main/java/Array/FindNumbersWithEvenNumberOfDigits.java)
 - [1342. Number of Steps to Reduce a Number to Zero](src/main/java/Math/NumberOfStepsToReduceANumberToZero.java)
 - [1480. Running Sum of 1d Array](src/main/java/Array/RunningSumOf1DArray.java)
