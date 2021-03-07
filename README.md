@@ -71,6 +71,7 @@
 - [694. Number of Distinct Islands](src/main/java/DepthFirstSearch/NumberOfDistinctIslands.java)
 - [701. Insert Into a Binary Search Tree](src/main/java/BinaryTree/BinarySearchTree/InsertIntoABinarySearchTree.java)
 - [705. Design HashSet](src/main/java/Design/DesignHashSet.java)
+- [706. Design HashMap](src/main/java/Design/MyHashMap.java)
 - [724. Find Pivot Index](src/main/java/Array/FindPivotIndex.java)
 - [763. Partition Labels](src/main/java/Greedy/PartitionLabels.java)
 - [785. Is Graph Bipartite?](src/main/java/DepthFirstSearch/IsGraphBipartite.java)
